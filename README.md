@@ -6,7 +6,7 @@ Sikun Yang and Heinz Koeppl, "[A Poisson Gamma Probabilistic Model for Latent No
 
 ## Examples
 
-#### Demo 1: Dynamic Community Detection 
+#### Demo 1: Community Detection for Dynamic Networks 
 
 ```Matlab
 >> run_synthetic
