@@ -2,7 +2,7 @@
 
 Code for 
 
-Sikun Yang and Heinz Koeppl, "A Poisson Gamma Probabilistic Model for Latent Node-group Memberships inDynamic Networks," Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018.
+Sikun Yang and Heinz Koeppl, "A Poisson Gamma Probabilistic Model for Latent Node-group Memberships in Dynamic Networks," Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018.
 
 # Copyright
 
