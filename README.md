@@ -1,4 +1,6 @@
-# dynamic Edge Partition Models
+# Overlapping Community Detection and Temporal Link Prediction for Sparse Dynamic Networks
+
+## dynamic Edge Partition Models
 
 Code for 
 
