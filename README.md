@@ -11,7 +11,7 @@ Sikun Yang and Heinz Koeppl, "[A Poisson Gamma Probabilistic Model for Latent No
 ```Matlab
 >> run_synthetic
 ``` 
-<a href="url"><img src="https://github.com/stephenyang/dynamicEdgePartitionModels/sythetic_dynamic_network.pdf" align="center" height="200" width="800"></a>
+<a href="url"><img src="https://github.com/stephenyang/dynamic-Edge-Partition-Models/blob/master/sythetic_dynamic_network.pdf" align="center" height="200" width="800"></a>
 
 # Copyright
 
