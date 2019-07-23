@@ -1,5 +1,4 @@
-# Overlapping Community Detection and Temporal Link Prediction 
-# for Sparse Dynamic Networks
+# Overlapping Community Detection and Temporal Link Prediction for Sparse Dynamic Networks
 
 ## dynamic Edge Partition Models
 
